@@ -12,3 +12,5 @@ Backpack auto market trade with browser automation
 > replace the cookies.json file with the exported file from extension
 
 > install module using command "npm install"
+
+> run "node index.js"
